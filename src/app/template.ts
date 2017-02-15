@@ -1,0 +1,1 @@
+export const TEMPLATES = { text:'<input type=\"text\">', select:''}
